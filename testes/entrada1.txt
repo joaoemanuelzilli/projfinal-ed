@@ -1,0 +1,28 @@
+CIDADE Campinas
+CIDADE Jundiai
+CIDADE Sao_Paulo
+CIDADE Santos
+CIDADE Sorocaba
+CIDADE Piracicaba
+CIDADE Limeira
+CIDADE Ubatuba
+CIDADE Paraty
+ESTRADA Campinas Jundiai 40
+ESTRADA Jundiai Sao_Paulo 60
+ESTRADA Campinas Sao_Paulo 105
+ESTRADA Sao_Paulo Santos 75
+ESTRADA Sao_Paulo Sorocaba 100
+ESTRADA Campinas Sorocaba 85
+ESTRADA Campinas Piracicaba 70
+ESTRADA Piracicaba Limeira 35
+ESTRADA Campinas Limeira 55
+ESTRADA Ubatuba Paraty 75
+HASH Campinas
+HASH Santos
+VIZINHOS Campinas
+ROTA Limeira Santos
+ROTA Santos Ubatuba
+ALCANCE Santos
+REGIOES
+VIZINHOS Manaus
+FIM

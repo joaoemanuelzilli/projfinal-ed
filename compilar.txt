@@ -1,0 +1,4 @@
+gcc -Wall main.c hash.c grafo.c -o rotabr
+
+para rodar:
+./rotabr < testes/entrada1.txt

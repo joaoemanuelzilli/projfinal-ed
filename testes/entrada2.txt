@@ -1,0 +1,34 @@
+CIDADE Uberlandia
+CIDADE Uberaba
+CIDADE Araguari
+CIDADE Ituiutaba
+CIDADE Patos_de_Minas
+CIDADE Araxa
+CIDADE Belo_Horizonte
+CIDADE Contagem
+CIDADE Diamantina
+CIDADE Uberlandia
+ESTRADA Uberlandia Uberaba 105
+ESTRADA Uberlandia Araguari 40
+ESTRADA Uberlandia Ituiutaba 135
+ESTRADA Uberlandia Patos_de_Minas 215
+ESTRADA Uberaba Araxa 115
+ESTRADA Araxa Patos_de_Minas 170
+ESTRADA Araguari Patos_de_Minas 190
+ESTRADA Belo_Horizonte Contagem 20
+ESTRADA Uberlandia Goiania 330
+HASH Uberlandia
+HASH Diamantina
+HASH Goiania
+VIZINHOS Uberlandia
+VIZINHOS Diamantina
+ROTA Ituiutaba Araxa
+ROTA Araguari Araxa
+ROTA Uberaba Uberaba
+ROTA Uberlandia Contagem
+ROTA Uberlandia Goiania
+ALCANCE Araxa
+ALCANCE Contagem
+ALCANCE Diamantina
+REGIOES
+FIM
